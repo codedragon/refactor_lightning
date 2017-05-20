@@ -8,9 +8,10 @@
 
 Write out in prose what is happening in the function/block of code that you want to refactor.
 
-_We are opening up a window, setting the resolution, and opening up a second window. Then we are setting other properties for the window(s)(?), lens and camera
+_We are opening up a window, setting the resolution, and opening up a second window. Then we are setting other properties for the window(s)(?), lens and camera_<!-- .element: class="fragment" data-fragment-index="1" -->
 
-_Wait a minute, why are we doing that?
+_Wait a minute, why are we doing that?_<!-- .element: class="fragment" data-fragment-index="2" -->
+
 
 
 
@@ -18,7 +19,7 @@ _Wait a minute, why are we doing that?
 
 Make an outline. Yes, old-fashioned outline like your English teacher made you write before you could start your essay.
 
-_Sample Outline
+_Sample Outline_<!-- .element: class="fragment" data-fragment-index="1" -->
 
 1. Open both Windows
    a. set resolution
@@ -31,13 +32,14 @@ _Sample Outline
 
 ## Step 3 
 
-_Notice that the outline may not make sense.
+_Notice that the outline may not make sense._<!-- .element: class="fragment" data-fragment-index="1" -->
 
-_Play around with outline until it actually makes sense.
+_Play around with outline until it actually makes sense._<!-- .element: class="fragment" data-fragment-index="2" -->
 
-_Subpoints may not be necessary to outline.
+_Subpoints may not be necessary to outline._<!-- .element: class="fragment" data-fragment-index="3" -->
 
-_Sample Outline 2
+
+_Sample Outline 2_<!-- .element: class="fragment" data-fragment-index="4" -->
 1. Open both Windows
 2. Set Window properties
 3. Set Lens Properties
