@@ -1,87 +1,58 @@
-# The presentation template
+# Refactoring Lengthy Bits of Code
 
-## MaptimeCalgary
-This is the first slide.
-
-_Press `F` to go full-screen._<!-- .element: class="fragment" data-fragment-index="1" -->
-
-_Try moving `RIGHT`._<!-- .element: class="fragment" data-fragment-index="2" -->
+## Maria Mckinley
 
 
 
-## Follow along
-These slides are created with Reveal.js + Markdown.
+## Step 1
 
-Take a look at the [raw source for the slides](https://raw.githubusercontent.com/MaptimeCalgary/presentation-example/gh-pages/slides.md). The repo can be found [here](https://github.com/MaptimeCalgary/presentation-example).
+Write out in prose what is happening in the function/block of code that you want to refactor.
 
+_We are opening up a window, setting the resolution, and opening up a second window. Then we are setting other properties for the window(s)(?), lens and camera
 
-
-## This is a new slide
-Create these by placing 3 line-breaks in the markdown source.
-
-_From here, you can move `LEFT`, `RIGHT`, or `DOWN`._ <!-- .element: class="fragment" data-fragment-index="0" -->
-
-_Try `DOWN`._ <!-- .element: class="fragment" data-fragment-index="1" -->
-
-
-## This is a vertical-slide
-You make these by placing 2 line-breaks within the source.
-
-Vertical-slides are good for drilling in to topics. Think of it as a _details_ slide. If you're short on time, you can skip past these slides by moving `RIGHT`.
+_Wait a minute, why are we doing that?
 
 
 
-## You can put images in a slide
+## Step 2
 
-![alt text](assets/logo.png "Logo Title Text 1")
+Make an outline. Yes, old-fashioned outline like your English teacher made you write before you could start your essay.
 
-![external image](https://raw.githubusercontent.com/maptime/maptime.github.io/master/img/xmaptime-logo-web-header-rainbonly.png.pagespeed.ic.sUvy41gYSf.png "External Image Example")
+_Sample Outline
 
-
-
-<!-- .slide: data-background="MintCream" -->
-## Style
-
-You can style each slide individually.
-
-_Cool background, right?_<!-- .element: class="fragment" data-fragment-index="1" -->
-```
-<!-- .slide: data-background="MintCream" -->
-## Style
-
-You can style each slide individually.
-```
+1. Open both Windows
+   a. set resolution
+2. Set Properties
+   a. window
+   b. lens
+   c. camera
 
 
 
-## Hey, it even supports code!
+## Step 3 
 
-```
-var marker = L.marker([49, 5.49]).addTo(map);
-var polygon = L.polygon([
-  [51.509, -0.08],
-  [51.503, -0.06],
-  [51.51, -0.047]
-]).addTo(map);
-marker.bindPopup("<b>Hello world!</b><br>I am a popup.").openPopup();
-polygon.bindPopup("I am a polygon.");
-```
+_Notice that the outline may not make sense.
 
+_Play around with outline until it actually makes sense.
 
+_Subpoints may not be necessary to outline.
 
-## Want to see something _really_ crazy?
-
-Press `S` to check out the 'Presentation Mode'.
-
-Note:
-The idea is that you put the other window on a shared screen, like a projector, and view this screen on your laptop. Btw, this note is only visible to the presenter.
+_Sample Outline 2
+1. Open both Windows
+2. Set Window properties
+3. Set Lens Properties
+4. Set Camera Properties
 
 
 
-## That's about it
+## Step 4
 
-There are a bunch of cool things you can do with **Reveal.js** and **Markdown**.
+Your main bullet points are your new function calls.
 
-Check out Reveal.js' [example slides](http://lab.hakim.se/reveal-js/) for more quick examples of what you can do with Reveal.js.  Check out Reveal.js' [Readme](https://github.com/hakimel/reveal.js/blob/master/README.md) and its [wiki](https://github.com/hakimel/reveal.js/wiki) (especially the [Articles & Tutorials](https://github.com/hakimel/reveal.js/wiki/Articles-&-Tutorials) section) for greater detail about using Reveal.js.  
+Everything else goes in one of these calls.
 
-Check out this [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for a quick intro into using Markdown.
+
+
+## Step 5
+
+Write a test for each of your new functions!
