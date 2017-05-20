@@ -8,9 +8,9 @@
 
 Write out in prose what is happening in the function/block of code that you want to refactor.
 
-_We are opening up a window, setting the resolution, and opening up a second window. Then we are setting other properties for the window(s)(?), lens and camera_<!-- .element: class="fragment" data-fragment-index="1" -->
+We are opening up a window, setting the resolution, and opening up a second window, and setting its resolution. Then we are setting other properties for the window(s)(?), lens and camera<!-- .element: class="fragment" data-fragment-index="1" -->
 
-_Wait a minute, why are we doing that?_<!-- .element: class="fragment" data-fragment-index="2" -->
+_Wait a minute, why are we doing it that way?_<!-- .element: class="fragment" data-fragment-index="2" -->
 
 
 
@@ -22,11 +22,11 @@ Make an outline. Yes, old-fashioned outline like your English teacher made you w
 _Sample Outline_<!-- .element: class="fragment" data-fragment-index="1" -->
 
 1. Open both Windows
-   a. set resolution
+   * a. set resolution
 2. Set Properties
-   a. window
-   b. lens
-   c. camera
+   * a. window
+   * b. lens
+   * c. camera
 
 
 
