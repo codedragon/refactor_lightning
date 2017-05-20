@@ -38,8 +38,8 @@ _Play around with outline until it actually makes sense._<!-- .element: class="f
 
 _Subpoints may not be necessary to outline._<!-- .element: class="fragment" data-fragment-index="3" -->
 
-
 _Sample Outline 2_<!-- .element: class="fragment" data-fragment-index="4" -->
+
 1. Open both Windows
 2. Set Window properties
 3. Set Lens Properties
