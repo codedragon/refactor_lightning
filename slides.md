@@ -6,6 +6,12 @@
 
 ## Step 1
 
+Write the bare minimum test. Yes, this bit of code is obviously doing a lot. But, for it to work most of the time, what needs to have been accomplished by the end?
+
+
+
+## Step 2
+
 Write out in prose (or say outloud) what is happening in the function/block of code that you want to refactor.
 
 We are opening up a window, and setting its resolution, and then opening up a second window, and setting its resolution. Then we are setting other properties for the windows, lenses and cameras<!-- .element: class="fragment" data-fragment-index="1" -->
@@ -14,8 +20,7 @@ _Wait a minute, why are we doing it that way?_<!-- .element: class="fragment" da
 
 
 
-
-## Step 2
+## Step 3
 
 Make an outline. Yes, old-fashioned outline like your English teacher made you write before you could start your essay.
 
@@ -30,7 +35,7 @@ Sample Outline<!-- .element: class="fragment" data-fragment-index="1" -->
 
 
 
-## Step 3 
+## Step 4 
 
 _Notice that the outline may not make sense._<!-- .element: class="fragment" data-fragment-index="1" -->
 
@@ -47,7 +52,7 @@ Sample Outline 2<!-- .element: class="fragment" data-fragment-index="4" -->
 
 
 
-## Step 4
+## Step 5
 
 Your main bullet points are your new function calls.
 
@@ -55,6 +60,6 @@ Everything else goes in one of these calls.
 
 
 
-## Step 5
+## Step 6
 
 Write a test for each of your new functions!
