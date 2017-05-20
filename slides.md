@@ -19,14 +19,14 @@ _Wait a minute, why are we doing it that way?_<!-- .element: class="fragment" da
 
 Make an outline. Yes, old-fashioned outline like your English teacher made you write before you could start your essay.
 
-_Sample Outline_<!-- .element: class="fragment" data-fragment-index="1" -->
+Sample Outline<!-- .element: class="fragment" data-fragment-index="1" -->
 
-1. Open both Windows
-   * a. set resolution
-2. Set Properties
-   * a. window
-   * b. lens
-   * c. camera
+1. Open both Windows<!-- .element: class="fragment" data-fragment-index="1" -->
+   * a. set resolution<!-- .element: class="fragment" data-fragment-index="1" -->
+2. Set Properties<!-- .element: class="fragment" data-fragment-index="1" -->
+   * a. window<!-- .element: class="fragment" data-fragment-index="1" -->
+   * b. lens<!-- .element: class="fragment" data-fragment-index="1" -->
+   * c. camera<!-- .element: class="fragment" data-fragment-index="1" -->
 
 
 
@@ -38,11 +38,11 @@ _Play around with outline until it actually makes sense._<!-- .element: class="f
 
 _Subpoints may not be necessary to outline._<!-- .element: class="fragment" data-fragment-index="3" -->
 
-_Sample Outline 2_
+Sample Outline 2<!-- .element: class="fragment" data-fragment-index="4" -->
 
-1. Open both Windows
-2. Set Window properties
-3. Set Lens Properties
+1. Open both Windows<!-- .element: class="fragment" data-fragment-index="4" -->
+2. Set Window properties<!-- .element: class="fragment" data-fragment-index="4" -->
+3. Set Lens Properties<!-- .element: class="fragment" data-fragment-index="4" -->
 4. Set Camera Properties<!-- .element: class="fragment" data-fragment-index="4" -->
 
 
