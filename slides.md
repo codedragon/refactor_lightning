@@ -63,3 +63,12 @@ Everything else goes in one of these calls.
 ## Step 6
 
 Write a test for each of your new functions!
+
+
+
+## Thank you for listening!
+
+Twitter: @twiteness
+Github: codedragon
+Website: mariakathryn.net
+LinkedIn: https://www.linkedin.com/in/mariamckinley
