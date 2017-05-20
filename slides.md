@@ -22,7 +22,7 @@ _Wait a minute, why are we doing it that way?_<!-- .element: class="fragment" da
 
 ## Step 3
 
-Make an outline. Yes, old-fashioned outline like your English teacher made you write before you could start your essay.
+Make an outline. Yes, an old-fashioned outline like your English teacher made you write before you could start your essay.
 
 Sample Outline<!-- .element: class="fragment" data-fragment-index="1" -->
 
@@ -68,7 +68,11 @@ Write a test for each of your new functions!
 
 ## Thank you for listening!
 
+
+https://codedragon.github.io/refactor_lightning/
+
+
+maria@mariakathryn.net
 Twitter: @twiteness
 Github: codedragon
 Website: mariakathryn.net
-LinkedIn: https://www.linkedin.com/in/mariamckinley
