@@ -24,7 +24,7 @@ _Wait a minute, why are we doing it that way?_<!-- .element: class="fragment" da
 
 Make an outline. Yes, an old-fashioned outline like your English teacher made you write before you could start your essay.
 
-Sample outline as code is currently written<!-- .element: class="fragment" data-fragment-index="1" -->
+Sample outline as code is currently written:<!-- .element: class="fragment" data-fragment-index="1" -->
 
 1. Open both Windows<!-- .element: class="fragment" data-fragment-index="1" -->
    * a. set resolution<!-- .element: class="fragment" data-fragment-index="1" -->
@@ -43,7 +43,7 @@ _Play around with outline until it actually makes sense._<!-- .element: class="f
 
 _Subpoints may not be necessary to outline._<!-- .element: class="fragment" data-fragment-index="3" -->
 
-Sample Outline 2<!-- .element: class="fragment" data-fragment-index="4" -->
+Revised Sample Outline<!-- .element: class="fragment" data-fragment-index="4" -->
 
 1. Open both Windows<!-- .element: class="fragment" data-fragment-index="4" -->
 2. Set Window properties<!-- .element: class="fragment" data-fragment-index="4" -->
